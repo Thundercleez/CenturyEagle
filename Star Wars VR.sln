@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{06B18792-D412-BFD1-EC18-995CB22851DD}") = "Star Wars VR", "Assembly-CSharp-firstpass.csproj", "{46F46CC3-C73B-D489-CFD8-7282940C4C48}"
+EndProject
+Project("{06B18792-D412-BFD1-EC18-995CB22851DD}") = "Star Wars VR", "Assembly-CSharp.csproj", "{630EABE9-43F5-3EE2-4242-234BD029EEDC}"
+EndProject
+Project("{06B18792-D412-BFD1-EC18-995CB22851DD}") = "Star Wars VR", "Assembly-CSharp-Editor.csproj", "{EA60895C-D254-7381-4A2E-7A5F185F2E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F46CC3-C73B-D489-CFD8-7282940C4C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F46CC3-C73B-D489-CFD8-7282940C4C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F46CC3-C73B-D489-CFD8-7282940C4C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F46CC3-C73B-D489-CFD8-7282940C4C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630EABE9-43F5-3EE2-4242-234BD029EEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630EABE9-43F5-3EE2-4242-234BD029EEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630EABE9-43F5-3EE2-4242-234BD029EEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630EABE9-43F5-3EE2-4242-234BD029EEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA60895C-D254-7381-4A2E-7A5F185F2E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA60895C-D254-7381-4A2E-7A5F185F2E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA60895C-D254-7381-4A2E-7A5F185F2E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA60895C-D254-7381-4A2E-7A5F185F2E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
